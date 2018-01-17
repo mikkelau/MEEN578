@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Mikkel Unrau",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
